@@ -1,0 +1,68 @@
+>> Activity03
+Student Club Voting System 
+Enter the total number of voters: 4
+
+Voter 1: Please choose a candidate:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Enter your choice (1-4): 1
+
+Voter 2: Please choose a candidate:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Enter your choice (1-4): 3
+
+Voter 3: Please choose a candidate:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Enter your choice (1-4): 2
+
+Voter 4: Please choose a candidate:
+1. Candidate A
+2. Candidate B
+3. Candidate C
+4. Candidate D
+Enter your choice (1-4): 2
+
+Vote counts:
+Candidate A: 1 votes
+Candidate B: 2 votes
+Candidate C: 1 votes
+Candidate D: 0 votes
+
+The winner is: Candidate B
+
+Visualization Menu:
+1. Show Bar Chart of Votes
+2. Show Pie Chart of Votes
+3. Show Scatter Plot (Creative Visualization)
+4. Exit
+Enter your choice (1-4): 1
+
+Visualization Menu:
+1. Show Bar Chart of Votes
+2. Show Pie Chart of Votes
+3. Show Scatter Plot (Creative Visualization)
+4. Exit
+Enter your choice (1-4): 2
+
+Visualization Menu:
+1. Show Bar Chart of Votes
+2. Show Pie Chart of Votes
+3. Show Scatter Plot (Creative Visualization)
+4. Exit
+Enter your choice (1-4): 3
+
+Visualization Menu:
+1. Show Bar Chart of Votes
+2. Show Pie Chart of Votes
+3. Show Scatter Plot (Creative Visualization)
+4. Exit
+Enter your choice (1-4): 4
+Exiting program.

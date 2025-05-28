@@ -1,0 +1,36 @@
+>> Activity01
+ATM Simulation Program
+
+ATM Menu:
+1. Deposit
+2. Withdraw
+3. Balance Inquiry
+4. Exit
+Please enter your choice (1-4): 1
+Enter the amount to deposit: 5000
+Successfully deposited 5000.00. Your new balance is 6000.00.
+
+ATM Menu:
+1. Deposit
+2. Withdraw
+3. Balance Inquiry
+4. Exit
+Please enter your choice (1-4): 2
+Enter the amount to withdraw: 7000
+Insufficient funds. Your balance is 6000.00.
+
+ATM Menu:
+1. Deposit
+2. Withdraw
+3. Balance Inquiry
+4. Exit
+Please enter your choice (1-4): 3
+Your current balance is 6000.00.
+
+ATM Menu:
+1. Deposit
+2. Withdraw
+3. Balance Inquiry
+4. Exit
+Please enter your choice (1-4): 4
+Thank you for using the ATM. Goodbye!
