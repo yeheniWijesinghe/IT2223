@@ -1,0 +1,4 @@
+1 - 0.000467seconds
+10 - 0.001018seconds
+100 - 0.003490seconds
+1000 - 0.037594seconds
