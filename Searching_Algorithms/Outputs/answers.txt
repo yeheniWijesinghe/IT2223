@@ -1,0 +1,16 @@
+//comparison of linear and binary search
+>> timeComplexityOfLinearAndBinarySearch
+Target found in index: 10
+Elapsed time of linear search: 0.000752seconds
+Target found at index 10
+Elapsed time binary search: 0.001147seconds
+>> timeComplexityOfLinearAndBinarySearch
+Target found in index: 500
+Elapsed time of linear search: 0.000742seconds
+Target found at index 500
+Elapsed time binary search: 0.000273seconds
+>> timeComplexityOfLinearAndBinarySearch
+Target found in index: 998
+Elapsed time of linear search: 0.001545seconds
+Target found at index 998
+Elapsed time binary search: 0.001369seconds
